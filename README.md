@@ -1,5 +1,5 @@
 # ExcelProject
-**ExcelProject Description**
+
 
 **📊 Customer Analytics Project (Excel-Based)**
 
